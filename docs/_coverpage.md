@@ -8,6 +8,16 @@
 * Multiple themes
 * Not build static html files -->
 
-[加入群聊](https://jq.qq.com/?_wv=1027&k=5uWknJx)
-[软件下载](http://w7t.cn/pEXg)
+[加入Q群](https://jq.qq.com/?_wv=1027&k=5uWknJx)
 [阅读教程](#Overview)
+
+
+
+
+
+
+
+
+
+
+[WX]: /_media/QRCode-03-07.png
