@@ -17,7 +17,7 @@
 **QQ群: [994962286][QQ]**
 
 **微信群:**
-<!-- ![QRCode][WX] -->
+
 <img src="_media/QRCode-03-07.png" width="40%" height="40%">  
 
 
