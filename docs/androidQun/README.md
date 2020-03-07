@@ -23,13 +23,15 @@
   > 我以小米系统为例。其他手机不会操作的可以加群询问。[QQ:994962286][QQ]  
 
 
-<img src="/step/0/0.png" width="90%" >  
+<img src="/step/0/0.png" width="90%" >
+
 
 > 打开通知栏 =》 在做个截图的通知栏向左划 =》 点击齿轮图标
 <img src="/step/0/1.png" width="90%" >  
 
 > 打开更多设置  
-<img src="/step/0/2.png" width="90%" >  
+<img src="/step/0/2.png" width="90%" >
+
 
 > 将 “允许通知” 关闭即可    
 <img src="/step/0/3.png" width="90%" >  
